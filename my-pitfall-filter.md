@@ -14,8 +14,7 @@ Here are three traps to start. Read them, then add your own at the bottom.
 
 Add one trap you've actually run into. Give it a short name and one plain sentence.
 
-- **(your trap name).** What it looks like, in your own words.
-
+- **(The hidden prerequisite).** Assuming a task is ready to start without checking if you're missing key information, access, or resources needed to actually complete it.
 ---
 
 When you're happy with your trap, that's a save point worth keeping. Head back to the guide and make your first commit.
