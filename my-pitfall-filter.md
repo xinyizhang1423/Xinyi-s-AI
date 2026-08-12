@@ -18,3 +18,5 @@ Add one trap you've actually run into. Give it a short name and one plain senten
 ---
 
 When you're happy with your trap, that's a save point worth keeping. Head back to the guide and make your first commit.
+
+New save point 
